@@ -1,0 +1,32 @@
+h1 {
+	font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family:cursive;
+  text-align:left;
+}
+
+h3 {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:right
+}
+
+h4 {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center
+}
+
+p {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+nav {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: right;
+}
+
+ul {
+  text-align:left;
+}
