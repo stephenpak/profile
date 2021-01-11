@@ -75,6 +75,16 @@ ul {
   text-align:left;
 }
 
+/* unvisited link */
+a:link {
+  color:black;
+}
+
+/* visited link */
+a:visited {
+  color:blue;
+}
+
 /*img {
   display:block;
   margin-left:auto;
