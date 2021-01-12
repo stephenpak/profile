@@ -80,9 +80,9 @@ ul {
   text-align:left;
 }
 
-/* unvisited link */
+/* hover link */
 a:hover {
-  color:darkolivegreen;
+  color:green;
 }
 
 /* visited link */
