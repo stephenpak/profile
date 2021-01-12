@@ -81,8 +81,8 @@ ul {
 }
 
 /* unvisited link */
-a:link {
-  color:black;
+a:hover {
+  color:darkolivegreen;
 }
 
 /* visited link */
